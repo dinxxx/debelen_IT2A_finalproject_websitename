@@ -87,22 +87,25 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="w-100"></div>
           <div class="col-md-3 d-flex">
           	<div class="dbox">
-	            <p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+              <?php 
+	            echo "<p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>";
+              ?>
             </div>
           </div>
           <div class="col-md-3 d-flex">
           	<div class="dbox">
-	            <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+	            <p><span>Phone:</span> <a href="#">+639152463775</a></p>
+
             </div>
           </div>
           <div class="col-md-3 d-flex">
           	<div class="dbox">
-	            <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+	            <p><span>Email:</span> <a href="#">kusinahustler@yahoo.com</a></p>
             </div>
           </div>
           <div class="col-md-3 d-flex">
           	<div class="dbox">
-	            <p><span>Website</span> <a href="#">yoursite.com</a></p>
+	            <p><span>Website</span> <a href="#">kusinahustler.com</a></p>
             </div>
           </div>
         </div>
@@ -144,7 +147,9 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-6 col-lg-3">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Kusina</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <?php
+                    echo "<p>Nothing brings people together like good food.</p>";
+                    ?>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -169,7 +174,9 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-6 col-lg-3">
             <div class="ftco-footer-widget mb-4">
             	<h2 class="ftco-heading-2">Newsletter</h2>
-            	<p>Far far away, behind the word mountains, far from the countries.</p>
+            	<?php
+              echo "<p>Far far away, behind the word mountains, far from the countries.</p>";
+              ?>
               <form action="#" class="subscribe-form">
                 <div class="form-group">
                   <input type="text" class="form-control mb-2 text-center" placeholder="Enter email address">
@@ -204,7 +211,7 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+   Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Kusina Hustler<i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>
