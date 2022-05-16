@@ -87,8 +87,7 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="w-100"></div>
           <div class="col-md-3 d-flex">
           	<div class="dbox">
-              <?php 
-	            echo "<p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>";
+              <p><span>Address:</span> Malvar St., Brgy. Malusak, 4900 Boac, Philippines</p>
               ?>
             </div>
           </div>
@@ -100,7 +99,7 @@ else if (isset($_REQUEST['logout']) === true){
           </div>
           <div class="col-md-3 d-flex">
           	<div class="dbox">
-	            <p><span>Email:</span> <a href="#">kusinahustler@yahoo.com</a></p>
+	            <p><span>Email:</span> <a href="#">kusina@yahoo.com</a></p>
             </div>
           </div>
           <div class="col-md-3 d-flex">
