@@ -344,7 +344,7 @@ else if (isset($_REQUEST['logout']) === true){
             <p><a href="specialties-drinks.php" class="btn btn-black py-3 px-5">Drinks</a></p>
           </div>
           <div class="col-md-12 text-center ftco-animate">
-            <p><a href="specialties-drinks.php" class="btn btn-black py-3 px-5">Desserts</a></p>
+            <p><a href="specialties-desserts.php" class="btn btn-black py-3 px-5">Desserts</a></p>
           </div>
            <div class="col-md-12 text-center ftco-animate">
             <p><a href="specialties-best-sellers.php" class="btn btn-black py-3 px-5">Best Sellers</a></p>
