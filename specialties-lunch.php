@@ -84,7 +84,7 @@ else if (isset($_REQUEST['logout']) === true){
       </div>
     </section>
   
-<!-- --------Our Menu---------- -->
+ <!-- --------Our Menu---------- -->
 
     <section class="ftco-section">
       <div class="container">
@@ -100,73 +100,73 @@ else if (isset($_REQUEST['logout']) === true){
               <h3></h3>
             </div>
             <div class="menus d-flex ftco-animate">
-              <div class="menu-img img" style="background-image: url(images/breakfast-1.jpg);"></div>
+              <div class="menu-img img" style="background-image: url(images/l1.jpg);"></div>
               <div class="text">
                 <div class="d-flex">
                   <div class="one-half">
-                    <h3>Grilled Beef with potatoes</h3>
+                    <h3>Ginataang Hipon</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">$29</span>
+                    <span class="price">P200</span>
                   </div>
                 </div>
-                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
               </div>
             </div>
-                        <div class="menus d-flex ftco-animate">
-              <div class="menu-img img" style="background-image: url(images/breakfast-1.jpg);"></div>
+
+            <div class="menus d-flex ftco-animate">
+              <div class="menu-img img" style="background-image: url(images/l2.jpg);"></div>
               <div class="text">
                 <div class="d-flex">
                   <div class="one-half">
-                    <h3>Grilled Beef with potatoes</h3>
+                    <h3>Special Bulalo</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">$29</span>
+                    <span class="price">P300</span>
                   </div>
                 </div>
-                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
+                </div>
+            </div>
+            
+            <div class="menus d-flex ftco-animate">
+              <div class="menu-img img" style="background-image: url(images/l3.jpg);"></div>
+              <div class="text">
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Beef Salpicao</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">P200</span>
+                  </div>
+                </div>
               </div>
             </div>
-                        <div class="menus d-flex ftco-animate">
-              <div class="menu-img img" style="background-image: url(images/breakfast-1.jpg);"></div>
+
+            <div class="menus d-flex ftco-animate">
+              <div class="menu-img img" style="background-image: url(images/l4.jpg);"></div>
               <div class="text">
                 <div class="d-flex">
                   <div class="one-half">
-                    <h3>Grilled Beef with potatoes</h3>
+                    <h3>Kalderetang Kambing</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">$29</span>
+                    <span class="price">P200</span>
                   </div>
                 </div>
-                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
+                
               </div>
             </div>
             <div class="menus d-flex ftco-animate">
-              <div class="menu-img img" style="background-image: url(images/breakfast-2.jpg);"></div>
+              <div class="menu-img img" style="background-image: url(images/l5.jpg);"></div>
               <div class="text">
                 <div class="d-flex">
                   <div class="one-half">
-                    <h3>Grilled Crab with Onion</h3>
+                    <h3>Chicken Curry</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">$29</span>
+                    <span class="price">P200</span>
                   </div>
                 </div>
-                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
-              </div>
-            </div>
-            <div class="menus d-flex ftco-animate">
-              <div class="menu-img img" style="background-image: url(images/breakfast-3.jpg);"></div>
-              <div class="text">
-                <div class="d-flex">
-                  <div class="one-half">
-                    <h3>Grilled Crab with Onion</h3>
-                  </div>
-                  <div class="one-forth">
-                    <span class="price">$29</span>
-                  </div>
-                </div>
-                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
+                
               </div>
             </div>
           </div>
@@ -176,73 +176,73 @@ else if (isset($_REQUEST['logout']) === true){
               <h3>Lunch</h3>
             </div>
             <div class="menus d-flex ftco-animate">
-              <div class="menu-img img" style="background-image: url(images/lunch-1.jpg);"></div>
+              <div class="menu-img img" style="background-image: url(images/l6.jpg);"></div>
               <div class="text">
                 <div class="d-flex">
                   <div class="one-half">
-                    <h3>Grilled Beef with potatoes</h3>
+                    <h3>Pork Menudo</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">$29</span>
+                    <span class="price">P200</span>
                   </div>
                 </div>
-                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
               </div>
             </div>
-                        <div class="menus d-flex ftco-animate">
-              <div class="menu-img img" style="background-image: url(images/lunch-1.jpg);"></div>
+
+            <div class="menus d-flex ftco-animate">
+              <div class="menu-img img" style="background-image: url(images/l7.jpg);"></div>
               <div class="text">
                 <div class="d-flex">
                   <div class="one-half">
-                    <h3>Grilled Beef with potatoes</h3>
+                    <h3><h3>Pork Caldereta</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">$29</span>
+                    <span class="price">P220</span>
                   </div>
                 </div>
-                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
               </div>
             </div>
-                        <div class="menus d-flex ftco-animate">
-              <div class="menu-img img" style="background-image: url(images/lunch-1.jpg);"></div>
+
+            <div class="menus d-flex ftco-animate">
+              <div class="menu-img img" style="background-image: url(images/l8.jpg);"></div>
               <div class="text">
                 <div class="d-flex">
                   <div class="one-half">
-                    <h3>Grilled Beef with potatoes</h3>
+                    <h3>Chicken Afritada</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">$29</span>
+                    <span class="price">P200</span>
                   </div>
                 </div>
-                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
+              </div>
+            </div>
+
+            <div class="menus d-flex ftco-animate">
+              <div class="menu-img img" style="background-image: url(images/l9.jpg);"></div>
+              <div class="text">
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Pork Steak</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">P200</span>
+                  </div>
+                </div>
+               
               </div>
             </div>
             <div class="menus d-flex ftco-animate">
-              <div class="menu-img img" style="background-image: url(images/lunch-2.jpg);"></div>
+              <div class="menu-img img" style="background-image: url(images/l10.jpg);"></div>
               <div class="text">
                 <div class="d-flex">
                   <div class="one-half">
-                    <h3>Grilled Crab with Onion</h3>
+                    <h3>Bicol Express</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">$29</span>
+                    <span class="price">P200</span>
                   </div>
                 </div>
-                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
-              </div>
-            </div>
-            <div class="menus d-flex ftco-animate">
-              <div class="menu-img img" style="background-image: url(images/lunch-3.jpg);"></div>
-              <div class="text">
-                <div class="d-flex">
-                  <div class="one-half">
-                    <h3>Grilled Crab with Onion</h3>
-                  </div>
-                  <div class="one-forth">
-                    <span class="price">$29</span>
-                  </div>
-                </div>
-                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
+                
               </div>
             </div>
           </div>
@@ -251,74 +251,76 @@ else if (isset($_REQUEST['logout']) === true){
             <div class="heading-menu text-center ftco-animate">
               <h3></h3>
             </div>
+
             <div class="menus d-flex ftco-animate">
-              <div class="menu-img img" style="background-image: url(images/dinner-1.jpg);"></div>
+              <div class="menu-img img" style="background-image: url(images/l11.jpg);"></div>
               <div class="text">
                 <div class="d-flex">
                   <div class="one-half">
-                    <h3>Grilled Beef with potatoes</h3>
+                    <h3>Pata Tim</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">$29</span>
+                    <span class="price">P210</span>
                   </div>
                 </div>
-                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
               </div>
             </div>
+
             <div class="menus d-flex ftco-animate">
-              <div class="menu-img img" style="background-image: url(images/dinner-2.jpg);"></div>
+              <div class="menu-img img" style="background-image: url(images/l12.jpg);"></div>
               <div class="text">
                 <div class="d-flex">
                   <div class="one-half">
-                    <h3>Grilled Crab with Onion</h3>
+                    <h3>Beef Stir Fry</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">$29</span>
+                    <span class="price">P200</span>
                   </div>
                 </div>
-                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
               </div>
             </div>
+
             <div class="menus d-flex ftco-animate">
-              <div class="menu-img img" style="background-image: url(images/dinner-3.jpg);"></div>
+              <div class="menu-img img" style="background-image: url(images/l13.jpg);"></div>
               <div class="text">
                 <div class="d-flex">
                   <div class="one-half">
-                    <h3>Grilled Crab with Onion</h3>
+                    <h3>Pininyahang Manok</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">$29</span>
+                    <span class="price">P200</span>
                   </div>
                 </div>
-                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
               </div>
             </div>
+
             <div class="menus d-flex ftco-animate">
-              <div class="menu-img img" style="background-image: url(images/dinner-3.jpg);"></div>
+              <div class="menu-img img" style="background-image: url(images/l14.jpg);"></div>
               <div class="text">
                 <div class="d-flex">
                   <div class="one-half">
-                    <h3>Grilled Crab with Onion</h3>
+                    <h3>Beef Asado</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">$29</span>
+                    <span class="price">P120</span>
                   </div>
                 </div>
-                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
+               
               </div>
             </div>
+            
              <div class="menus d-flex ftco-animate">
-              <div class="menu-img img" style="background-image: url(images/dinner-3.jpg);"></div>
+              <div class="menu-img img" style="background-image: url(images/l15.jpg);"></div>
               <div class="text">
                 <div class="d-flex">
                   <div class="one-half">
-                    <h3>Grilled Crab with Onion</h3>
+                    <h3>Sweet and Sour Tilapia</h3>
                   </div>
                   <div class="one-forth">
-                    <span class="price">$29</span>
+                    <span class="price">P210</span>
                   </div>
                 </div>
-                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
+                
               </div>
             </div>
           </div>
@@ -328,6 +330,7 @@ else if (isset($_REQUEST['logout']) === true){
 
           
         </div>
+
         <div class="row" style="">
           <div class="col-md-12 text-center ftco-animate">
             <p><a href="specialties-lunch.php" class="btn btn-black py-3 px-5">Lunch</a></p>
@@ -364,7 +367,9 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-6 col-lg-3">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Kusina</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+               <?php
+                    echo "<p>Nothing brings people together like good food.</p>";
+                    ?>v
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -389,7 +394,9 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-6 col-lg-3">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Newsletter</h2>
-              <p>Far far away, behind the word mountains, far from the countries.</p>
+              <?php
+              echo "<p>Far far away, behind the word mountains, far from the countries.</p>";
+              ?>
               <form action="#" class="subscribe-form">
                 <div class="form-group">
                   <input type="text" class="form-control mb-2 text-center" placeholder="Enter email address">
@@ -424,7 +431,7 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Kusina Hustler<i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>
