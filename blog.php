@@ -152,7 +152,7 @@ else if (isset($_REQUEST['logout']) === true){
           </div>
           <div class="col-md-4 ftco-animate">
             <div class="blog-entry">
-              <a href=p" class="block-20" style="background-image: url('images/image_5.jpg');">
+              <a href="#" class="block-20" style="background-image: url('images/image_5.jpg');">
               </a>
               <div class="text px-4 pt-3 pb-4">
                 <div class="meta">
@@ -169,7 +169,7 @@ else if (isset($_REQUEST['logout']) === true){
           </div>
           <div class="col-md-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.php" class="block-20" style="background-image: url('images/image_6.jpg');">
+              <a href="#" class="block-20" style="background-image: url('images/image_6.jpg');">
               </a>
               <div class="text px-4 pt-3 pb-4">
                 <div class="meta">
@@ -237,7 +237,7 @@ else if (isset($_REQUEST['logout']) === true){
             <div class="ftco-footer-widget mb-4">
             	<h2 class="ftco-heading-2">Newsletter</h2>
               <?php
-              echo "<p>Far far away, behind the word mountains, far from the countries.</p>"
+              echo "<p>Far far away, behind the word mountains, far from the countries.</p>";
               ?>
               <form action="#" class="subscribe-form">
                 <div class="form-group">
