@@ -319,7 +319,9 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-6 col-lg-3">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Newsletter</h2>
-              <p>Far far away, behind the word mountains, far from the countries.</p>
+              <?php
+              echo "<p>Far far away, behind the word mountains, far from the countries.</p>"
+              ?>
               <form action="#" class="subscribe-form">
                 <div class="form-group">
                   <input type="text" class="form-control mb-2 text-center" placeholder="Enter email address">
@@ -329,7 +331,7 @@ else if (isset($_REQUEST['logout']) === true){
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
-             <div class="ftco-footer-widget mb-4">
+             <div class="ftco-footer-widget mb-4">S
               <h2 class="ftco-heading-2">Instagram</h2>
               <div class="thumb d-sm-flex">
                 <a href="#" class="thumb-menu img" style="background-image: url(images/insta-1.jpg);">
@@ -354,7 +356,7 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Kusina Hustler<i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>

@@ -84,9 +84,6 @@ else if (isset($_REQUEST['logout']) === true){
 			<div class="container">
 				<div class="row no-gutters">
 					<div class="col-sm-5 img img-2 d-flex align-items-center justify-content-center justify-content-md-end" style="background-image: url(images/about.jpg); position: relative">
-						<a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
-  						<span class="ion-ios-play"></span>
-  					</a>
 					</div>
 					<div class="col-sm-7 wrap-about py-5 ftco-animate">
 	          <div class="heading-section mt-5 mb-4">
@@ -96,20 +93,22 @@ else if (isset($_REQUEST['logout']) === true){
 	            </div>
 	          </div>
 	          <div class="pl-lg-5 ml-md-5">
-							<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+							<?php 
+              echo "<p>The Kusina Hustler story began in 2003 with two friends, Andrei Monroyo and Geraldine de Belen, and their shared passion for good food.  In the beginning, Andrei stood at the helm of Kusina's operations while Geraldine created recipes for their locally-produced chorizos and smoked meats alongside his corporate job, but soon word of Kusina's quality had spread and Geraldine decided to go full-time with their food business.<br><br>  Opening a restaurant was not exactly their original plan, but in a rather fortuitous turn of events, the building where they rented their first office had a ground floor space that housed a café and the building's owner asked if they were interested in partnering with them to open a restaurant there. Andrei and Geraldine sensed this as an opportunity to spread their passion for excellent food and drinks. After creating a menu of familiar Filipino foods and some newer creations inspired by their travels around the Philippines, Kusina Hustler opened its doors in Marinduque in June 2015. Focusing on serving great food and drinks made with the highest-quality ingredients in a friendly, fuss-free atmosphere, Kusina Hustler soon established a name for itself as a favourite watering hole in the neighbourhood. <br><br>This same spirit of serving quality food and drinks expanded from their southern neighborhood to their newest branch which opened in December 2016 in Taguig City. Today, Kusina Hustler continues to win over discerning palettes from all around the metro as it continues to serve Filipino dishes favourites as well as dreaming up new flavour creations, inviting everyone to come and enjoy a good meal with family and friends.</p>"
+              ?>
 							<h3 class="mt-5">Special Recipe</h3>
 							<div class="thumb my-4 d-flex">
 	            	<a href="#" class="thumb-menu pr-md-4 text-center">
 	            		<div class="img" style="background-image: url(images/lunch-4.jpg);"></div>
-	            		<h4>Australian Organic Beef</h4>
+	            		<h4>Lil Shrimpy</h4>
 	            	</a>
 	            	<a href="#" class="thumb-menu pr-md-4 text-center">
 	            		<div class="img" style="background-image: url(images/lunch-7.jpg);"></div>
-	            		<h4>Australian Organic Beef</h4>
+	            		<h4>My Manokish</h4>
 	            	</a>
 	            	<a href="#" class="thumb-menu pr-md-4 text-center">
 	            		<div class="img" style="background-image: url(images/lunch-6.jpg);"></div>
-	            		<h4>Australian Organic Beef</h4>
+	            		<h4>Beef Me</h4>
 	            	</a>
 	            </div>
 						</div>
@@ -126,7 +125,9 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-6 col-lg-3">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Kusina</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <?php
+                    echo "<p>Nothing brings people together like good food.</p>";
+                    ?>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
                 <li class="ftco-animate"><a href="https://twitter.com/?lang=en"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="http://facebook.com/"><span class="icon-facebook"></span></a></li>
@@ -151,7 +152,9 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-6 col-lg-3">
             <div class="ftco-footer-widget mb-4">
             	<h2 class="ftco-heading-2">Newsletter</h2>
-            	<p>Far far away, behind the word mountains, far from the countries.</p>
+              <?php
+              echo "<p>Far far away, behind the word mountains, far from the countries.</p>"
+              ?>
               <form action="#" class="subscribe-form">
                 <div class="form-group">
                   <input type="text" class="form-control mb-2 text-center" placeholder="Enter email address">
@@ -186,8 +189,10 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Kusina Hustler<i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+            
+
           </div>
         </div>
       </div>
