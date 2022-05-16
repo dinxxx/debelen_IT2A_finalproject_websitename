@@ -88,10 +88,10 @@ else if (isset($_REQUEST['logout']) === true){
               </a>
               <div class="text px-4 pt-3 pb-4">
                 <div class="meta">
-                  <div><a href="#">Feb 4, 2019</a></div>
+                  <div><a href="#">Feb 5, 2010</a></div>
                   <div><a href="#">Admin</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">A wonderful day to see you relax and chill while you wait. </a></h3>
                 <p class="clearfix">
                   <a href="#" class="float-left read">Read more</a>
                   <a href="#" class="float-right meta-chat"><span class="icon-chat"></span> 3</a>
@@ -105,10 +105,10 @@ else if (isset($_REQUEST['logout']) === true){
               </a>
               <div class="text px-4 pt-3 pb-4">
                 <div class="meta">
-                  <div><a href="#">Feb 4, 2019</a></div>
-                  <div><a href="#">Admin</a></div>
+                  <div><a href="#">March 10, 2012</a></div>
+                  <div><a href="#">CEO</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">Just bought beverages for motivation.</a></h3>
                 <p class="clearfix">
                   <a href="#" class="float-left read">Read more</a>
                   <a href="#" class="float-right meta-chat"><span class="icon-chat"></span> 3</a>
@@ -122,10 +122,10 @@ else if (isset($_REQUEST['logout']) === true){
               </a>
               <div class="text px-4 pt-3 pb-4">
                 <div class="meta">
-                  <div><a href="#">Feb 4, 2019</a></div>
-                  <div><a href="#">Admin</a></div>
+                  <div><a href="#">April 9, 2015</a></div>
+                  <div><a href="#">Barista</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">The night the I want, will forever love.</a></h3>
                 <p class="clearfix">
                   <a href="#" class="float-left read">Read more</a>
                   <a href="#" class="float-right meta-chat"><span class="icon-chat"></span> 3</a>
@@ -139,10 +139,10 @@ else if (isset($_REQUEST['logout']) === true){
               </a>
               <div class="text px-4 pt-3 pb-4">
                 <div class="meta">
-                  <div><a href="#">Feb 4, 2019</a></div>
-                  <div><a href="#">Admin</a></div>
+                  <div><a href="#">June 28, 2016</a></div>
+                  <div><a href="#">Staff</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">Smile can add flavors to your food. </a></h3>
                 <p class="clearfix">
                   <a href="#" class="float-left read">Read more</a>
                   <a href="#" class="float-right meta-chat"><span class="icon-chat"></span> 3</a>
@@ -156,10 +156,10 @@ else if (isset($_REQUEST['logout']) === true){
               </a>
               <div class="text px-4 pt-3 pb-4">
                 <div class="meta">
-                  <div><a href="#">Feb 4, 2019</a></div>
+                  <div><a href="#">November 12, 2018</a></div>
                   <div><a href="#">Admin</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">It's a yay! More wines to come </a></h3>
                 <p class="clearfix">
                   <a href="#" class="float-left read">Read more</a>
                   <a href="#" class="float-right meta-chat"><span class="icon-chat"></span> 3</a>
@@ -173,10 +173,10 @@ else if (isset($_REQUEST['logout']) === true){
               </a>
               <div class="text px-4 pt-3 pb-4">
                 <div class="meta">
-                  <div><a href="#">Feb 4, 2019</a></div>
-                  <div><a href="#">Admin</a></div>
+                  <div><a href="#">March 20, 2020</a></div>
+                  <div><a href="#">Staff</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">Cleanliness and organization is within us</a></h3>
                 <p class="clearfix">
                   <a href="#" class="float-left read">Read more</a>
                   <a href="#" class="float-right meta-chat"><span class="icon-chat"></span> 3</a>
@@ -209,7 +209,9 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-6 col-lg-3">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Kusina</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <?php
+                    echo "<p>Nothing brings people together like good food.</p>";
+                    ?>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -234,7 +236,9 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-6 col-lg-3">
             <div class="ftco-footer-widget mb-4">
             	<h2 class="ftco-heading-2">Newsletter</h2>
-            	<p>Far far away, behind the word mountains, far from the countries.</p>
+              <?php
+              echo "<p>Far far away, behind the word mountains, far from the countries.</p>"
+              ?>
               <form action="#" class="subscribe-form">
                 <div class="form-group">
                   <input type="text" class="form-control mb-2 text-center" placeholder="Enter email address">
@@ -269,7 +273,7 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Kusina Hustler<i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>
