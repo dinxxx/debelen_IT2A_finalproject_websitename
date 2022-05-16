@@ -83,18 +83,26 @@ else if (isset($_REQUEST['logout']) === true){
 			<div class="container">
 				<div class="row">
           <div class="col-lg-8 ftco-animate">
-            <h2 class="mb-3">A small river named Duden flows by their place and supplies it with the necessary regelialia.</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, eius mollitia suscipit, quisquam doloremque distinctio perferendis et doloribus unde architecto optio laboriosam porro adipisci sapiente officiis nemo accusamus ad praesentium? Esse minima nisi et. Dolore perferendis, enim praesentium omnis, iste doloremque quia officia optio deserunt molestiae voluptates soluta architecto tempora.</p>
-            <p>Molestiae cupiditate inventore animi, maxime sapiente optio, illo est nemo veritatis repellat sunt doloribus nesciunt! Minima laborum magni reiciendis qui voluptate quisquam voluptatem soluta illo eum ullam incidunt rem assumenda eveniet eaque sequi deleniti tenetur dolore amet fugit perspiciatis ipsa, odit. Nesciunt dolor minima esse vero ut ea, repudiandae suscipit!</p>
-            <h2 class="mb-3 mt-5">#2. Creative WordPress Themes</h2>
-            <p>Temporibus ad error suscipit exercitationem hic molestiae totam obcaecati rerum, eius aut, in. Exercitationem atque quidem tempora maiores ex architecto voluptatum aut officia doloremque. Error dolore voluptas, omnis molestias odio dignissimos culpa ex earum nisi consequatur quos odit quasi repellat qui officiis reiciendis incidunt hic non? Debitis commodi aut, adipisci.</p>
+            <h2 class="mb-3">A wonderful day to see you relax and chill while you wait.</h2>
+
+            <?php
+            echo "<p>Relaxation is a state of calmness. It is being free of worry in the mind, and free of tension in the body. It is having a sense of openness to one’s outside environment and an ease within oneself. When we are feeling stressed, relaxation is the space we give ourselves to let go of that which is gripping us, opening us up to more spaciousness in our body, mind and heart</p>";
+            ?>
+
+            
+            <h2 class="mb-3 mt-5">Important Meal Day</h2>
+
+            <?php
+            echo "<p>It probably goes without saying that here at Kusina Hustler Restaurant we are huge fans of the first meal of the day. For years, the general belief has been breakfast is essential to starting your day right and should never be skipped. However, recent studies are suggesting that breakfast might not be particularly important to overall health, and dare we say it, may not even be necessary.  It’s time to end this debate once and for all.</p>";
+            ?>
             <p>
-              <img src="images/image_2.jpg" alt="" class="img-fluid">
+            
+              <img src="images/image_1.jpg" alt="" class="img-fluid">
             </p>
-            <p>Quisquam esse aliquam fuga distinctio, quidem delectus veritatis reiciendis. Nihil explicabo quod, est eos ipsum. Unde aut non tenetur tempore, nisi culpa voluptate maiores officiis quis vel ab consectetur suscipit veritatis nulla quos quia aspernatur perferendis, libero sint. Error, velit, porro. Deserunt minus, quibusdam iste enim veniam, modi rem maiores.</p>
-            <p>Odit voluptatibus, eveniet vel nihil cum ullam dolores laborum, quo velit commodi rerum eum quidem pariatur! Quia fuga iste tenetur, ipsa vel nisi in dolorum consequatur, veritatis porro explicabo soluta commodi libero voluptatem similique id quidem? Blanditiis voluptates aperiam non magni. Reprehenderit nobis odit inventore, quia laboriosam harum excepturi ea.</p>
-            <p>Adipisci vero culpa, eius nobis soluta. Dolore, maxime ullam ipsam quidem, dolor distinctio similique asperiores voluptas enim, exercitationem ratione aut adipisci modi quod quibusdam iusto, voluptates beatae iure nemo itaque laborum. Consequuntur et pariatur totam fuga eligendi vero dolorum provident. Voluptatibus, veritatis. Beatae numquam nam ab voluptatibus culpa, tenetur recusandae!</p>
-            <p>Voluptas dolores dignissimos dolorum temporibus, autem aliquam ducimus at officia adipisci quasi nemo a perspiciatis provident magni laboriosam repudiandae iure iusto commodi debitis est blanditiis alias laborum sint dolore. Dolores, iure, reprehenderit. Error provident, pariatur cupiditate soluta doloremque aut ratione. Harum voluptates mollitia illo minus praesentium, rerum ipsa debitis, inventore?</p>
+            <?php
+            echo "<p>A leading argument in favor of breakfast says eating shortly after waking up kickstarts your metabolism. However, all bodies are different, and routines vary. People who eat breakfast everyday should continue to do so. For those who skip it; it may work best with their schedule, but they must allocate those extra calories into the rest of their meals.<br><br>Do you remember how often teachers would stress eating breakfast before a big test? That’s because breakfast is the perfect way to jumpstart your day and wake up your mind. Eating a meal in the morning replenishes the glucose that your body lost overnight resulting in an energy boost. When you go without breakfast, your body is starved for energy which may result in low performance and less healthy food choices for the rest of the day. Many common breakfast foods contain healthy nutrients that can power your brain and improve performance.</p>";
+            ?>
+          
             <div class="tag-widget post-tag-container mb-5 mt-5">
               <div class="tagcloud">
                 <a href="#" class="tag-cloud-link">Food</a>
@@ -106,50 +114,58 @@ else if (isset($_REQUEST['logout']) === true){
             
             <div class="about-author d-flex p-4 bg-light">
               <div class="bio mr-5">
-                <img src="images/person_1.jpg" alt="Image placeholder" class="img-fluid mb-4">
+                <img src="images/person1.jpg" alt="Image placeholder" class="img-fluid mb-4">
               </div>
               <div class="desc">
-                <h3>George Washington</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!</p>
+                <h3>Ken Suson</h3>
+                <?php
+                echo "<p>This cozy restaurant has left the best impressions! Hospitable hosts, delicious dishes, beautiful presentation, wide wine list and wonderful dessert. I recommend to everyone! I would like to come back here again and again.</p>";
+                ?>
               </div>
             </div>
 
 
             <div class="pt-5 mt-5">
-              <h3 class="mb-5 h4 font-weight-bold p-4 bg-light">07 Feedbacks</h3>
+              <h3 class="mb-5 h4 font-weight-bold p-4 bg-light">5 Feedbacks</h3>
               <ul class="comment-list">
                 <li class="comment">
                   <div class="vcard bio">
-                    <img src="images/person_1.jpg" alt="Image placeholder">
+                    <img src="images/person2.jpg" alt="Image placeholder">
                   </div>
                   <div class="comment-body">
-                    <h3>John Doe</h3>
-                    <div class="meta mb-2">January 03, 2019 at 2:21pm</div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
+                    <h3>Pablo Nase</h3>
+                    <div class="meta mb-2">January 03, 20120 at 2:31pm</div>
+                    <?php
+                echo "<p>We are so fortunate to have this place just a few minutes drive away from home. Food is stunning, both the tapas and downstairs restaurant. Cocktails wow, wine great and lovely selection of beers. Love this place and will continue to visit.</p>";
+                    ?>
                     <p><a href="#" class="reply">Reply</a></p>
                   </div>
                 </li>
 
                 <li class="comment">
                   <div class="vcard bio">
-                    <img src="images/person_1.jpg" alt="Image placeholder">
+                    <img src="images/person3.jpg" alt="Image placeholder">
                   </div>
                   <div class="comment-body">
-                    <h3>John Doe</h3>
-                    <div class="meta mb-2">January 03, 2019 at 2:21pm</div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
+                    <h3>Stellvester Ajero</h3>
+                    <div class="meta mb-2">January 5, 2019 at 5:21pm</div>
+                    <?php
+                     echo "<p>Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.</p>";
+                     ?>
                     <p><a href="#" class="reply">Reply</a></p>
                   </div>
 
                   <ul class="children">
                     <li class="comment">
                       <div class="vcard bio">
-                        <img src="images/person_1.jpg" alt="Image placeholder">
+                        <img src="images/person4.jpg" alt="Image placeholder">
                       </div>
                       <div class="comment-body">
-                        <h3>John Doe</h3>
+                        <h3>Josh Cullen</h3>
                         <div class="meta mb-2">January 03, 2019 at 2:21pm</div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
+                        <?php
+                        echo "<p>This place is great! Atmosphere is chill and cool but the staff is also really friendly. They know what they’re doing and what they’re talking about, and you can tell making the customers happy is their main priority. Food is pretty good, some italian classics and some twists, and for their prices it’s 100% worth it.</p>";
+                        ?>
                         <p><a href="#" class="reply">Reply</a></p>
                       </div>
 
@@ -157,46 +173,17 @@ else if (isset($_REQUEST['logout']) === true){
                       <ul class="children">
                         <li class="comment">
                           <div class="vcard bio">
-                            <img src="images/person_1.jpg" alt="Image placeholder">
+                            <img src="images/person5.jpg" alt="Image placeholder">
                           </div>
                           <div class="comment-body">
-                            <h3>John Doe</h3>
-                            <div class="meta mb-2">January 03, 2019 at 2:21pm</div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
+                            <h3>Justin De Dios</h3>
+                            <div class="meta mb-2">March 03, 2021 at 6:00pm</div>
+                            <?php
+                            echo "<p>It’s a great experience. The ambiance is very welcoming and charming. Amazing wines, food and service. Staff are extremely knowledgeable and make great recommendations.</p>";
+                            ?>
                             <p><a href="#" class="reply">Reply</a></p>
                           </div>
 
-                            <ul class="children">
-                              <li class="comment">
-                                <div class="vcard bio">
-                                  <img src="images/person_1.jpg" alt="Image placeholder">
-                                </div>
-                                <div class="comment-body">
-                                  <h3>John Doe</h3>
-                                  <div class="meta mb-2">January 03, 2019 at 2:21pm</div>
-                                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                                  <p><a href="#" class="reply">Reply</a></p>
-                                </div>
-                              </li>
-                            </ul>
-                        </li>
-                      </ul>
-                    </li>
-                  </ul>
-                </li>
-
-                <li class="comment">
-                  <div class="vcard bio">
-                    <img src="images/person_1.jpg" alt="Image placeholder">
-                  </div>
-                  <div class="comment-body">
-                    <h3>John Doe</h3>
-                    <div class="meta mb-2">January 03, 2019 at 2:21pm</div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                    <p><a href="#" class="reply">Reply</a></p>
-                  </div>
-                </li>
-              </ul>
               <!-- END comment-list -->
               
               <div class="comment-form-wrap pt-5">
@@ -252,35 +239,35 @@ else if (isset($_REQUEST['logout']) === true){
             <div class="sidebar-box ftco-animate">
               <h3>Popular Articles</h3>
               <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/image_1.jpg);"></a>
+                <a class="blog-img mr-4" style="background-image: url(images/image_3.jpg);"></a>
                 <div class="text">
-                  <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                  <h3 class="heading"><a href="#">The night the I want, will forever love.</a></h3>
                   <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> Feb. 04, 2019</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Dave Lewis</a></div>
-                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                    <div><a href="#"><span class="icon-calendar"></span> April 9, 2015</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Ken Suson </a></div>
+                    <div><a href="#"><span class="icon-chat"></span> 5</a></div>
                   </div>
                 </div>
               </div>
               <div class="block-21 mb-4 d-flex">
                 <a class="blog-img mr-4" style="background-image: url(images/image_2.jpg);"></a>
                 <div class="text">
-                  <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                  <h3 class="heading"><a href="#">Just bought beverages for motivation.</a></h3>
                   <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> Feb. 04, 2019</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Dave Lewis</a></div>
-                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                    <div><a href="#"><span class="icon-calendar"></span>March 10, 2012</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Pablo Lomo</a></div>
+                    <div><a href="#"><span class="icon-chat"></span> 3</a></div>
                   </div>
                 </div>
               </div>
               <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/image_3.jpg);"></a>
+                <a class="blog-img mr-4" style="background-image: url(images/image_5.jpg);"></a>
                 <div class="text">
-                  <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                  <h3 class="heading"><a href="#">It's a yay! More wines to come</a></h3>
                   <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> Feb. 04, 2019</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Dave Lewis</a></div>
-                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                    <div><a href="#"><span class="icon-calendar"></span> November 12, 2018</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Josh Copo</a></div>
+                    <div><a href="#"><span class="icon-chat"></span> 12</a></div>
                   </div>
                 </div>
               </div>
@@ -312,8 +299,10 @@ else if (isset($_REQUEST['logout']) === true){
 
 
             <div class="sidebar-box ftco-animate">
-              <h3>Paragraph</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!</p>
+              <h3>Kusina</h3>
+              <?php
+              echo "<p>All you need is here. Kaya huwag ka na tumingin pa sa iba.</p>";
+              ?>
             </div>
           </div><!-- END COL -->
         </div>
@@ -326,7 +315,9 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-6 col-lg-3">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Kusina</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <?php
+                    echo "<p>Nothing brings people together like good food.</p>";
+                    ?>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -351,7 +342,9 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-6 col-lg-3">
             <div class="ftco-footer-widget mb-4">
             	<h2 class="ftco-heading-2">Newsletter</h2>
-            	<p>Far far away, behind the word mountains, far from the countries.</p>
+            	<?php
+              echo "<p>Far far away, behind the word mountains, far from the countries.</p>";
+              ?>
               <form action="#" class="subscribe-form">
                 <div class="form-group">
                   <input type="text" class="form-control mb-2 text-center" placeholder="Enter email address">
@@ -386,7 +379,7 @@ else if (isset($_REQUEST['logout']) === true){
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+   Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Kusina Hustler<i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>

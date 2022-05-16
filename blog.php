@@ -101,7 +101,7 @@ else if (isset($_REQUEST['logout']) === true){
           </div>
           <div class="col-md-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.php" class="block-20" style="background-image: url('images/image_2.jpg');">
+              <a href="#" class="block-20" style="background-image: url('images/image_2.jpg');">
               </a>
               <div class="text px-4 pt-3 pb-4">
                 <div class="meta">
@@ -118,7 +118,7 @@ else if (isset($_REQUEST['logout']) === true){
           </div>
           <div class="col-md-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.php" class="block-20" style="background-image: url('images/image_3.jpg');">
+              <a href="#" class="block-20" style="background-image: url('images/image_3.jpg');">
               </a>
               <div class="text px-4 pt-3 pb-4">
                 <div class="meta">
@@ -135,7 +135,7 @@ else if (isset($_REQUEST['logout']) === true){
           </div>
           <div class="col-md-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.php" class="block-20" style="background-image: url('images/image_4.jpg');">
+              <a href="#" class="block-20" style="background-image: url('images/image_4.jpg');">
               </a>
               <div class="text px-4 pt-3 pb-4">
                 <div class="meta">
@@ -152,7 +152,7 @@ else if (isset($_REQUEST['logout']) === true){
           </div>
           <div class="col-md-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.php" class="block-20" style="background-image: url('images/image_5.jpg');">
+              <a href=p" class="block-20" style="background-image: url('images/image_5.jpg');">
               </a>
               <div class="text px-4 pt-3 pb-4">
                 <div class="meta">
